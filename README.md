@@ -1,7 +1,7 @@
 # Bharath-Intern
 # Frontend UI Projects
 
-This repository contains small frontend projects built to practice UI layout,
+This repository contains frontend projects built to practice UI layout,
 responsive design, and basic JavaScript logic.
 
 ## Projects
